@@ -7,5 +7,6 @@ int main(){
     cout<<"my first check ponit";
     cout<<"hllo wold";
     cout<<"testing";
+    // new line
     return 0;
 }

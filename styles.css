@@ -1,0 +1,7 @@
+.ball{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    animation: up 0.5s ease-in-out;
+}
